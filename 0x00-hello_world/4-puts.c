@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
- * main- Entry point 
- * 
+ * main- Entry point
+ *
  * Description: Print with put function
  *
  * Return: Always 0 (Success)
