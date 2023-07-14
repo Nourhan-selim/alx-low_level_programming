@@ -20,7 +20,7 @@ int main(void)
 	}
 	while (ualphabet <= 'Z')
 	{
-		printf("%c\n", ualphabet);
+		printf("%c", ualphabet);
 		ualphabet++;
 	}
 
