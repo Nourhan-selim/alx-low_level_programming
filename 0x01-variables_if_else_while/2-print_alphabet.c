@@ -13,7 +13,10 @@ int main(void)
 	char lalphabet = 'a';
 
 	while (lalphabet <= 'z')
+	{
 		printf("%c", lalphabet);
+		lalphabet++;
+	}
 	printf("\n");
 	return (0);
 }
