@@ -17,6 +17,6 @@ int main(void)
 		putchar (lalphabet);
 		lalphabet--;
 	}
-	putchar (\n);
+	putchar ('\n');
 	return (0);
 }
