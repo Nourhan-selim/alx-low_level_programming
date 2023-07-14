@@ -13,8 +13,8 @@ int main(void)
 		putchar(',');
 		putchar(' ');
 		i++;
-	} while (i <= 57);
+	} while (i < 57);
 
-	putchar('\n');
+	putchar(57);
 	return (0);
 }
