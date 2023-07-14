@@ -23,6 +23,7 @@ int main(void)
 		printf("%c", ualphabet);
 		ualphabet++;
 	}
+	printf("\n");
 
 	return (0);
 }
