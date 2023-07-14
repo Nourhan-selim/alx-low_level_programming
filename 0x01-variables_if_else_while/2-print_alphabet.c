@@ -11,9 +11,9 @@
 int main(void)
 {
 	char lalphabet = 'a';
-	char ualphabet = 'A';
 
 	while (lalphabet <= 'z')
-		printf("%c %c\n", lalphabet, ualphabet);
+		printf("%c", lalphabet);
+	printf("\n");
 	return (0);
 }
