@@ -19,13 +19,12 @@ int main(void)
 					putchar(i);
 					putchar(j);
 					putchar(k);
-					if (i != 55 && i != 56 )
+					if (i != 55 && i != 56)
 					{   putchar(',');
-				            putchar(' ');
+				        putchar(' ');
 					}
 				}
 			}	
-		
 		}
 	}	
 	putchar('\n');
