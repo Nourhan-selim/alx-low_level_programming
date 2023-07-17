@@ -21,12 +21,12 @@ int main(void)
 					putchar(k);
 					if (i != 55 && i != 56)
 					{   putchar(',');
-				        putchar(' ');
+						putchar(' ');
 					}
 				}
 			}
 		}
-	}	
+	}
 	putchar('\n');
 	return (0);
 }
