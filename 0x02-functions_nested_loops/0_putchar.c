@@ -7,7 +7,7 @@
 */
 int main(void)
 {
-	char school[10] = "_putchar";
+	char school[] = "_putchar";
 
 	int i;
 
@@ -15,6 +15,6 @@ int main(void)
 	{
 		_putchar(school[i]);
 	}
-	_putchar(10);
+	_putchar(\n);
 	return (0);
 }
